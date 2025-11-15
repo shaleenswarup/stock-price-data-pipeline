@@ -1,0 +1,10 @@
+pandas==2.0.3
+requests==2.31.0
+scipy==1.11.2
+numpy==1.24.3
+python-dotenv==1.0.0
+celery==5.3.1
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.7
+aiohttp==3.8.5
+pyspark==3.4.0
